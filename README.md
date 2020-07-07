@@ -1,8 +1,8 @@
 ### How to start project 
 
-1. `cd` into rood directory 
+1. `cd` into root directory 
 
-2. `cd` into project folder `cd .\MinNumber\`
+2. `cd` into project folder `cd .\MinNumberCore\MinNumberCore`
 
 3. run `dotnet restore` to restore any required packaged 
 
